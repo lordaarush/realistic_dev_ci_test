@@ -1,4 +1,3 @@
-#test
-#test2
-#test3
-#test4
+# FastAPI CI Example
+
+A minimal FastAPI app with GitHub Actions CI for testing.
